@@ -1,0 +1,25 @@
+{
+  "name": "kuzminskimichallabnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michal121954/KuzminskiMichalLabNode.git"
+  },
+  "author": "Michał Kuźmiński",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michal121954/KuzminskiMichalLabNode/issues"
+  },
+  "homepage": "https://github.com/michal121954/KuzminskiMichalLabNode#readme",
+  "dependencies": {
+    "crypto-random-string": "^3.3.0",
+    "decamelize": "^4.0.0",
+    "query-string": "^6.13.7",
+    "table": "^6.0.4"
+  }
+}
